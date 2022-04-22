@@ -1,0 +1,40 @@
+/* 
+PRIORIDAD: ID #, CLASS ., ETIQUETA
+No utilizamos ID ahora, solos class.
+*/
+
+/*
+Para llamar a una clase en css colocaremos un
+punto antes del nombre.
+*/
+
+.parrafo1{
+    color:red
+    font-family:sans-serif;
+    font-
+}
+
+.parrafo2{
+    color:blue
+}
+
+.parrafo3{
+    color:green
+}
+
+
+/*
+Para llamar a un ID primero colocamos el signo #
+*/
+
+#titulo1{
+    color:blueviolet
+}
+
+#titulo2{
+    color:yellow
+}
+
+#titulo3{
+    color:pink
+}
